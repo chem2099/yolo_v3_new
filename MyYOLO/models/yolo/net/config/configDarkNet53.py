@@ -18,7 +18,7 @@ IMAGE_SIZE = 416
 
 CELL_SIZE = np.array([13, 26, 52])
 NUM_ANCHORS = 5
-ANCHORS = np.array( [[ 42.  18.]
+ANCHORS = np.array( [[ 42.  18.],
                      [ 50.  34.],
                      [ 69.  50.],
                      [ 84.  74.],
